@@ -1,0 +1,3 @@
+model: https://drive.google.com/drive/u/0/folders/1e2-7XhRAiLjAw5eveukxov2RRe_x8dOA
+dataset: https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+deployment: https://huggingface.co/spaces/irvandhistanly/gc7 (ONLY PREDICTION, THE EDA CAN ONLY BE ACCESSED ON LOCAL)
