@@ -1,6 +1,7 @@
 # Vegetable Recognition CNN Model
-Dataset: [here] (https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
-Deployment: [here] (https://huggingface.co/spaces/irvandhistanly/gc7)
+
+Dataset: [here](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
+Deployment: [here](https://huggingface.co/spaces/irvandhistanly/gc7)
 
 This repository contains code and documentation for a convolutional neural network (CNN) model developed to accurately predict various types of vegetables based on input images. The project involves exploratory data analysis (EDA), model development, training, and evaluation.
 
