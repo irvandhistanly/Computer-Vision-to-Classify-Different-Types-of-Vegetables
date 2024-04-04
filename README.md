@@ -1,4 +1,7 @@
 # Vegetable Recognition CNN Model
+Dataset: [here] (https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
+Deployment: [here] (https://huggingface.co/spaces/irvandhistanly/gc7)
+
 This repository contains code and documentation for a convolutional neural network (CNN) model developed to accurately predict various types of vegetables based on input images. The project involves exploratory data analysis (EDA), model development, training, and evaluation.
 
 ## Dataset Overview
@@ -57,7 +60,7 @@ Training process is time and resource-consuming due to the large dataset and mul
 ## Business Insights
 The vegetable recognition CNN model offers transformative benefits in retail and supply chain operations, including retail optimization, streamlined supply chain operations, and enhanced retail experiences. By implementing this model, businesses can achieve increased efficiency, operational excellence, and customer satisfaction.
 
-##Future Directions
+## Future Directions
 Future improvements and directions for the project include:
 
 Regular monitoring and feedback collection for model performance.
